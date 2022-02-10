@@ -7,14 +7,14 @@ Your first project will be to create a custom object relational mapping (ORM) fr
 Additionally, you will need to build a simple CRUD web application (what objects you CRUD is up to you and your team). You should leverage the Java EE Servlet API to expose endpoints that allow for interaction with the application.
 
 ## Tech Stack
-- [X] Java 8
-- [X] JUnit
+- [ ] Java 8
+- [ ] JUnit
 - [ ] Mockito
-- [X] Apache Maven
+- [ ] Apache Maven
 - [ ] GSON library (for JSON marshalling/unmarshalling)
 - [ ] Java EE Servlet API (v4.0+)
-- [X] PostGreSQL deployed on AWS RDS
-- [X] Git SCM (on GitHub)
+- [ ] PostGreSQL deployed on AWS RDS
+- [ ] Git SCM (on GitHub)
 - [ ] AWS CodeBuild
 - [ ] AWS CodePipeline
 
