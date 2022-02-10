@@ -1,2 +1,0 @@
-- Updated project structure.
-- Started writing reflection code in test/java/com/revature/app/DriverTest
